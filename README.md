@@ -16,10 +16,6 @@ A custom Byte-Pair Encoding (BPE) tokenizer for the Nepali language, built using
 
 ---
 
-## ScreenShots
-
-![Uploading 1.png…]()
-
  ## 🛠 Installation
 
 ```bash
